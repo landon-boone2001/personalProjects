@@ -1,0 +1,195 @@
+Giant Rat
+~
+A giant rat. 
+It doesn't look very friendly. 
+~
+10
+~
+10
+~
+0
+~
+0
+~
+Dire Wolf
+~
+A giant wolf with gnarled teeth.
+It doesn't seem like it wants to play. 
+~
+15
+~
+15
+~
+1
+~
+0
+~
+Ghoul
+~
+A zombie wielding an old decaying trowel. 
+It looks weak.
+~
+8
+~
+8
+~
+0
+~
+-2
+~
+Soldier
+~
+A footsoldier equipt with dulled armor and a spear.
+This one looks injured.
+~
+20
+~
+13
+~
+1
+~
+1
+~
+Soldier
+~
+A footsoldier equipt with dulled armor and a longsword. 
+~
+20
+~
+20
+~
+1
+~
+1
+~
+Giant Spider
+~
+A giant spider with venomous fangs.
+This spider appears to have been cut from a previous battle.
+Its fleshy body seems quite vulnerable to attacks
+~
+25
+~
+18
+~
+2
+~
+-3
+~
+Black Knight
+~
+A strong knight dawning strong, black armor.
+~
+25
+~
+25
+~
+1
+~
+2
+~
+Knight
+~
+A knight in shining armor weilding a spear.  
+~
+25
+~
+25
+~
+1
+~
+2
+~
+Frenzied Knight
+~
+A strong knight weilding a greatsword in his left hand.
+His right arm appears to have been broken from a previous encounter.
+He appears to be feral, moving with jerky motions.
+~
+40
+~
+27
+~
+2
+~
+2
+~
+Snake
+~
+A venomous snake.
+~
+15
+~
+15
+~
+2
+~
+0
+~
+Crossbowman
+~
+A soldier weilding an old crossbow. 
+It doesn't look very effective.
+~
+20
+~
+20
+~
+-1
+~
+1
+~
+Prisoner
+~
+An escaped prisoner weilding a broken bottle.
+Perhaps at one point he was trying to escape this dungeon, but now has been 
+driven mad by the maze-like structure of this building.
+~
+15
+~
+15
+~
+0
+~
+0
+~
+Jailor
+~
+A jailor of this dungeon looking for an escaped prisoner.
+He weilds a bludgeon.
+~
+20
+~
+20
+~
+1
+~
+1
+~
+Giant Bat
+~
+A giant flying bat with large fangs.
+It looks like it would be hard to hit.
+~
+15
+~
+15
+~
+1
+~
+2
+~
+Zangard K'lin
+~
+A Hulking man that appears to be the master of this dungeon.
+He weilds a large greataxe and wears fitted full-plate armor.
+It looks like you won't be escaping this dungeon without one last challenge.
+~
+50
+~
+50
+~
+3
+~
+3
+~

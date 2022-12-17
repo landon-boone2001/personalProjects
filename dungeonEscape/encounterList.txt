@@ -1,0 +1,310 @@
+Encounter #1
+~
+Suddenly, a dart shoots from a hole in the wall and hits your shoulder.
+You feel weaker.
+~
+0
+~
+-5
+~
+0
+~
+0
+~
+0
+~
+Encounter #2
+~
+You hear a soothing voice coming from the corner of the room. 
+Upon investigation, you find a potion labelled 'vigor'.
+Upon drinking this potion, you feel more robust.
+~
+0
+~
+10
+~
+0
+~
+0
+~
+0
+~
+Encounter #3
+~
+You enter a room and find a new sword. Upon taking the sword, an alarm sounds.
+An enemy enters the room!
+~
+1
+~
+0
+~
+0
+~
+2
+~
+0
+~
+Encounter #4
+~
+You find a long lost skeleton with a shiny set of armor on.
+You take it, figuring it won't be much use to the skeleton anymore. 
+~
+0
+~
+0
+~
+0
+~
+0
+~
+1
+~
+Encounter #5
+~
+Upon entering this room, you hear a loud whirring noise. Suddenly, you are struck
+by an arrow. It was a trap! You hear something quickly approaching.
+~
+1
+~
+0
+~
+-5
+~
+0
+~
+0
+~
+Encounter #6
+~
+You enter the room, and notice something in the corner of the room turn towards you.
+It does not look friendly. 
+~
+1
+~
+0
+~
+0
+~
+0
+~
+0
+~
+Encounter #7
+~
+Upon entering the room, you hear an angry squeal. You draw your blade. 
+~
+1
+~
+0
+~
+0
+~
+0
+~
+0
+~
+Encounter #8
+~
+You find a potion labled "Ironskin."
+You drink it, and begin to feel more resistant to strikes.
+Suddenly, you hear a voice screaming "Hey, that wasn't yours to drink!"
+You brace for combat.
+~
+1
+~
+0
+~
+0
+~
+0
+~
+1
+~
+Encounter #9
+~
+You find a potion labeled "Tough Juice." in scraggly handwriting.
+You drink it, and begin to feel more vulnerable.
+The label falls away, revealing the true title, "Paperskin."
+You hear a bellowing laughter, and prepare for combat.
+~
+1
+~
+0
+~
+0
+~
+0
+~
+-1
+~
+Encounter #10
+~
+You enter the room. All seems quiet. You take a moment to gather your bearings.
+~
+0
+~
+0
+~
+0
+~
+0
+~
+0
+~
+Encounter #11
+~
+You enter the room to find a potion labelled "Vigor."
+You drink it, and feel more robust.
+Suddenly, you are ambushed by an enemy! 
+~
+1
+~
+10
+~
+0
+~
+0
+~
+0
+~
+Encounter #12
+~
+You find an potion labelled "Strength." 
+Upon drinking it, you feel stronger.
+Suddenly, you feel a stabbing pain in your back. You were ambushed! 
+~
+1
+~
+0
+~
+-15
+~
+2
+~
+0
+~
+Encounter #13
+~
+Upon entering the room, you find some shiny boots on a pedistal.
+You decide to take them, as your feet are beginning to hurt from your worn-out sandals. 
+~
+0
+~
+0
+~
+0
+~
+0
+~
+1
+~
+Encounter #14
+~
+You find a treasure chest in the center of the room. 
+Upon opening it, you find a shiny new helmet with a note on it.
+The note reads "A gift for the interloper. Turn around and face your fate."
+You turn around, and prepare for combat.
+~
+1
+~
+0
+~
+0
+~
+0
+~
+2
+~
+Encounter #15
+~
+Upon entering the room, you feel a reinvigorating warmth. You feel more robust. 
+~
+0
+~
+10
+~
+0
+~
+0
+~
+0
+~
+Encounter #16
+~
+Upon Entering the room, you find an amulet. 
+Upon equiping it, you feel incredibly weak. 
+You try and remove it, but it will not come off.
+~
+0
+~
+-10
+~
+0
+~
+0
+~
+0
+~
+Encounter #17
+~
+Upon entering the room, you notice an enemy entering the room from another entrance.
+You briefly stare at eachother, and get ready to fight.
+~
+1
+~
+0
+~
+0
+~
+0
+~
+0
+~
+Encounter #18
+~
+In the center of the room, you find a shield.
+You take it, as it may become useful later.
+~
+0
+~
+0
+~
+0
+~
+0
+~
+2
+~
+Encounter #19
+~
+The room appears to be empty. 
+~
+0
+~
+0
+~
+0
+~
+0
+~
+0
+~
+Encounter #20
+~
+You enter the room to see a hulking form approaching you.
+In a deep, gravely voice, the man speaks.
+"I am Zangard K'lin, the master of this dungeon. If you want to exit this dungeon alive, you must face me."
+Zangard draws a greataxe from his back, and gets ready to battle.
+You draw your blade, and do the same.
+~
+1
+~
+0
+~
+0
+~
+0
+~
+0
+~
+

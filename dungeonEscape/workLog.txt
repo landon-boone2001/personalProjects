@@ -1,0 +1,88 @@
+Landon Boone
+12/4/22/6:00PM
+    Finished the readRoom function, reading in the room name, room desc, has encounters/has visited/is exit
+    roomList.txt syntax:
+        name
+        desc
+        exitDirection exitToRoom
+12/4/22/7:05PM
+    Finished the readEncounter function, reading in the Encounter title, encounter desc, isHostile/maxHealthChange/attackBonusChange/defenseChange
+    encounterList.txt syntax:
+        name
+        desc
+        isHostile check
+        maxHealthChange
+        currentHealthChange
+        attackBonusChange
+        defenseChange
+
+12/4/22/7:32PM
+    Finished the readEnemy function, reading in the Enemy title, Enemy desc, maxHealth/currentHealth/defense/attackBonus
+    enemyList.txt syntax:
+        name
+        desc
+        maxHealth
+        currentHealth
+        attackBonus
+        defense
+12/4/22/8:01PM
+    Finished AIcombat, rollHeal, RollAttack functions
+12/4/22/8:52PM 
+    Implemented room translation, victory condition (reached exit), room-based commands (IE noncombat commands), encounterList rolling into main file.
+    if a player has entered a room for the first time ( besides the beginning room and the exit room) an encounter will be rolled.
+12/4/22/9:58PM
+    Implemeted combat and loss conditions.
+12/4/22/10:49PM
+    debugged issued with rolling random enemies. Implemented random events 1-10
+12/4/22/11:39PM
+    finished implementing the encounter list. beginning to implement a boss fight.
+12/5/22/12:36AM
+    finished implementing the enemy list and adjusting cout phrasing in the boss encounter.
+12/5/22/2:03AM
+    finished implementing roomlist and playtested. Put a limit on enemy heals because the final boss was very annoying.
+12/5/22/2:23AM
+    finished writing comments/reviewing code for errors.
+12/6/22/5:28AM
+    Fixed a compilation error on the tesla machine. For some reason .txt files created on my local machine didn't want to work with the tesla.
+    Solution was to copy+paste all text from local files (CPP, H, TXT) into a new one on the tesla and compile. Compilation worked on the tesla,
+    so I copied it to my local machine via SCP. It compiled on my local machine. Finally, I SCP'd it back to the tesla in a new directory, and I had no compilation errors.
+    -----------------------------------------------------
+
+    Writeup:
+        I decided to go with making a dungeon crawler game 
+        because some of my favorite game genres are roguelike exploration games.
+        I am also a big fan of Dungeons and Dragons, and I always draw parallels between
+        exploration-focused dungeon crawlers and D&D. In CS102, we created a basic multi-user dungeon, so I decided to expand on that framework
+        in order to not only make a Multi-user dungeon, but to also implement a combat system between rudimentary AI NPC's and create random encounters,
+        both hostile and nonhostile, and for each hostile random encounter, randomly selecting enemies in the same fashion a random encounter was drawn.
+        These random encounters also can affect the player's temporal (current health) and permanent stats (Attack bonus, defense, max health).
+
+        In the beginning of this project, I felt as if I bit off more than I could chew.
+        I wasn't sure exactly how to get started with reading three different .txt files into the program and making sure
+        all the stat allocations and event markers ended up where they were supposed to go, much less implementing a combat system.
+        But once I got past the initial hurdles, I was able to understand quickly how to proceed through the project. From doing this project,
+        I reinforced my understanding of working with objects of a class, and feel more confident using them in the future.
+
+        Throughout this project, I had two major struggles: The smaller being missing small mistakes in code (IE  writingrand () % varName -2 rather than IE rand () % (varName -2) )
+        that caused weird issues, such as creating a nameless enemy with 0 health but 200000 defense. 
+        The biggest struggle I had was working with the tesla machine. I probably spent about the same amount of time debugging my program trying to
+        figure out why I was having core-dump/seg fault issues on the tesla when copying all my documents and source code to the tesla machine.
+        After about 15 hours off and on of working with this and trying various fixes, I finally decided to try something odd: making a new text document in the tesla, 
+        and copying what I wrote on my local machine and pasting into the text document. This solved the compilation error, so I decided to try and repeat
+        the process with each of my .txt files, my h file, and my cpp file, and the problem solved itself, I was able to SCP to and from the tesla machine
+        without any compilation issues. I can only assume VScode somehow caused some weird translations to happen between my computer and the Tesla machines.
+
+        Overall, this was a very fun project not only to write, but also to playtest and try and find the breakpoints of in order to make it more withstanding of the user,
+        or to cut out elements that are more frustrating to the player than fun (IE enemies having infinite healing abilities - every enemy is now limited to 5 per encounter).
+        I have probably spent at least 3 hours playing this game, trying various runs (making a bee-line to the exit, and exploring each and every room),
+        with a different combination of events every time (Barring the final boss at the end of the dungeon, of course).
+
+        What will be turned in to the final lab will be as follows :
+        dungeonEscape.cpp
+        Dungeon.h
+        roomList.txt
+        enemyList.txt
+        encounterList.txt
+        workLog.txt
+        A map of the dungeon for quick grading (Although I would recommend exploring the whole place, as the final boss can be tricky without proper equipment).
+        
